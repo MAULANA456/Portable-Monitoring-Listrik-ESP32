@@ -1,4 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://raw.githubusercontent.com/maulana/esp32-ota/main/firmware-1.0.3.bin"
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/maulana/esp32-ota/main/Monitoring_Listrik_Portable_ESP32.ino.esp32c3.bin",
+  "description": "",
+  "build": "2025-06-16"
 }
