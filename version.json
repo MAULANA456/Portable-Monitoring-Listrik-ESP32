@@ -1,5 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/MAULANA456/Portable-Monitoring-Listrik-ESP32/main/Monitoring_Listrik_Portable_ESP32.bin"
+  "version": "1.0.2",
+  "url": "https://raw.githubusercontent.com/MAULANA456/Portable-Monitoring-Listrik-ESP32/main/Monitoring_Listrik_Portable_ESP32.bin",
+  "description": "Penambahan sensor suhu dan perbaikan bug koneksi WiFi.",
+  "build": "2025-06-13"
 }
 
